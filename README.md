@@ -3,8 +3,8 @@
 ## 🚀 About Me
 Hello there! Welcome to my personal README.md file. My name is Atharv Paresh Naik , and I am a full-stack developer currently studying at SSBT's College of Engineering & Technology Jalgaon. This document provides a brief overview of my skills, experience, and projects. Feel free to explore and get to know me better!
 ## 🔗 Links
-[![portfolio]()
-[![linkedin](https://www.linkedin.com/in/gauri-patil07035/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]()
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gauri-patil07035/)
 ## 🛠 Skills
 👩‍💻 Programming Languages: I am proficient in languages such as JavaScript, Python, Java, and C++. I have experience with both front-end and back-end development.
 🕸️ Web Development: I have hands-on experience in developing responsive web applications using modern web technologies like HTML5, CSS3, and various front-end frameworks such as React and Angular.
