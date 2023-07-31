@@ -1,5 +1,6 @@
 # Hi, I'm Gauri! 👋
-![Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7V8DClkG4bEpCQLxGBlTQOGcFZ5LC5-TLNw&usqp=CAU)
+![Logo](![image](https://github.com/GauriPatil96k/gauripatil96k/assets/115544534/e97ede28-c124-4176-9f21-6752993e979f)
+)
 ## 🚀 About Me
 Hello there! Welcome to my personal README.md file. My name is Gauri Vilas Patil , and I am a full-stack developer currently studying at SSBT's College of Engineering & Technology Jalgaon. This document provides a brief overview of my skills, experience, and projects. Feel free to explore and get to know me better!
 ## 🔗 Links
