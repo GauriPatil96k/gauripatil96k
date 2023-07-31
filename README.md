@@ -6,10 +6,15 @@ Hello there! Welcome to my personal README.md file. My name is Atharv Paresh Nai
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]()
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gauri-patil07035/)
 ## 🛠 Skills
+
 👩‍💻 Programming Languages: I am proficient in languages such as JavaScript, Python, Java, and C++. I have experience with both front-end and back-end development.
+
 🕸️ Web Development: I have hands-on experience in developing responsive web applications using modern web technologies like HTML5, CSS3, and various front-end frameworks such as React and Angular.
+
 🧠 Back-end Development: I am familiar with server-side technologies such as Node.js and Django, and I have worked with databases like MySQL and MongoDB.
+
 ⚡️ Version Control: I am experienced in using Git and GitHub for version control and collaborative development.
+
 💬 Problem Solving: I have a strong analytical and problem-solving mindset, allowing me to approach complex challenges efficiently.
 ## 📞 Contact
 Feel free to reach out to me via email at your gauripatil07035@gmail.com for any collaboration opportunities, job offers, or just to say hello! I'm always excited to connect with fellow developers and tech enthusiasts.
