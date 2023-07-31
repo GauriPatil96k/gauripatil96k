@@ -1,7 +1,7 @@
 # Hi, I'm Gauri! 👋
 ![Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7V8DClkG4bEpCQLxGBlTQOGcFZ5LC5-TLNw&usqp=CAU)
 ## 🚀 About Me
-Hello there! Welcome to my personal README.md file. My name is Atharv Paresh Naik , and I am a full-stack developer currently studying at SSBT's College of Engineering & Technology Jalgaon. This document provides a brief overview of my skills, experience, and projects. Feel free to explore and get to know me better!
+Hello there! Welcome to my personal README.md file. My name is Gauri Vilas Patil , and I am a full-stack developer currently studying at SSBT's College of Engineering & Technology Jalgaon. This document provides a brief overview of my skills, experience, and projects. Feel free to explore and get to know me better!
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]()
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gauri-patil07035/)
